@@ -64,7 +64,7 @@ CREATE TABLE IF NOT EXISTS `passenger_detail` (
 --
 
 INSERT INTO `passenger_detail` (`p_id`, `user_type`, `last_name`, `first_name`, `address1`, `dist`, `state`, `country`, `mobile`, `email`) VALUES
-(31, 'Admin', 'Londhe', 'Amar', 'Morewasi', 'Pune', 'Maharashtra', 'India', '7304141015', 'londheamar143@gmail.com');
+(31, 'Admin', 'Admin', 'Admin', ' ', 'Pune', 'Maharashtra', 'India', 'admin', 'Admin@gmail.com');
 
 -- --------------------------------------------------------
 
